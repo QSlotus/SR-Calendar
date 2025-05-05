@@ -2,40 +2,80 @@ events:
   - name: 模拟宇宙刷新
     startDate: 2025-05-05
     endDate: 2025-05-11
-    description: 每周一刷新，可获得星琼奖励114514
+    description: 每周一刷新，可获得星琼奖励
   
   - name: 「银河漫游」活动
     startDate: 2025-05-01
     endDate: 2025-05-15
     description: 限时活动，完成任务获得星琼和材料
   
-  - name: 「星际列车」卡池
-    startDate: 2025-04-24
-    endDate: 2025-05-14
-    description: 限时角色卡池
-  
   - name: 「寰宇蜃楼」活动
     startDate: 2025-05-08
     endDate: 2025-05-22
     description: 新版本主线活动，获得限定角色
 
+warps:
+  - name: 「星际列车」卡池
+    startDate: 2025-04-24
+    endDate: 2025-05-14
+    characters: 景元
+    rerunCharacters: 希儿
+    description: 限时角色卡池
+  
+  - name: 「流光定影」光锥卡池
+    startDate: 2025-05-08
+    endDate: 2025-05-28
+    characters: 拂晓之前
+    description: 限时光锥卡池
+
 rewards:
   - name: 模拟宇宙奖励
     date: 2025-05-05
-    jades: 225
+    items:
+      - 星琼x225
     description: 完成模拟宇宙每周任务
   
   - name: 每日委托
     date: 2025-05-05
-    jades: 60
+    items:
+      - 星琼x60
     description: 完成每日委托任务
   
   - name: 「银河漫游」活动奖励
     date: 2025-05-05
-    jades: 120
+    items:
+      - 星琼x120
+      - 自塑尘脂x2
     description: 完成今日活动任务
   
   - name: 深渊
     date: 2025-05-16
-    jades: 600
+    items:
+      - 星琼x600
+      - 星轨通票x1
     description: 完成深渊挑战
+
+previews:
+  - name: 2.1版本前瞻直播
+    date: 2025-05-20
+    type: stream
+    description: 官方直播，介绍2.1版本新内容
+    link: https://live.bilibili.com/21987615
+  
+  - name: 新角色技能组
+    date: 2025-05-10
+    description: 测试服新角色技能组详情
+    link: https://www.miyoushe.com/sr/article/12345678
+
+communications:
+  - name: 景元通讯
+    date: 2025-05-07
+    character: 景元
+    description: 景元的角色通讯内容更新
+
+testUpdates:
+  - name: 2.1测试服更新
+    date: 2025-05-12
+    version: 2.1.0
+    description: 测试服2.1版本第一次更新
+    link: https://www.miyoushe.com/sr/article/87654321
