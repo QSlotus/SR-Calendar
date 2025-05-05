@@ -1,0 +1,41 @@
+events:
+  - name: 模拟宇宙刷新
+    startDate: 2025-05-05
+    endDate: 2025-05-11
+    description: 每周一刷新，可获得星琼奖励114514
+  
+  - name: 「银河漫游」活动
+    startDate: 2025-05-01
+    endDate: 2025-05-15
+    description: 限时活动，完成任务获得星琼和材料
+  
+  - name: 「星际列车」卡池
+    startDate: 2025-04-24
+    endDate: 2025-05-14
+    description: 限时角色卡池
+  
+  - name: 「寰宇蜃楼」活动
+    startDate: 2025-05-08
+    endDate: 2025-05-22
+    description: 新版本主线活动，获得限定角色
+
+rewards:
+  - name: 模拟宇宙奖励
+    date: 2025-05-05
+    jades: 225
+    description: 完成模拟宇宙每周任务
+  
+  - name: 每日委托
+    date: 2025-05-05
+    jades: 60
+    description: 完成每日委托任务
+  
+  - name: 「银河漫游」活动奖励
+    date: 2025-05-05
+    jades: 120
+    description: 完成今日活动任务
+  
+  - name: 深渊
+    date: 2025-05-16
+    jades: 600
+    description: 完成深渊挑战
