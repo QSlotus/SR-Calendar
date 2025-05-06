@@ -1,19 +1,17 @@
 warps:
-  - name: 跃迁「冥途生花」
+  - name: 跃迁「冥途生花」&「铭心之萃」
     startDate: 2025-04-09
     endDate: 2025-04-30
     type: character
     characters: 遐蝶
     rerunCharacters: 忘归人 | 椒丘 | 黄泉
-    # description: 限时角色卡池
   
-  - name: 跃迁「流光定影」
+  - name: 跃迁「流光定影」&「真意之汇」
     startDate: 2025-04-09
     endDate: 2025-04-30
     type: lightcone
     lightcones: 让告别，更美一些
     rerunLightcones: 长路终有归途 | 那无数个春天 | 行于流逝的岸
-    # description: 限时光锥卡池
 
   - name: 跃迁「胚中万物」&「万物皆流」
     startDate: 2025-04-30
@@ -21,7 +19,6 @@ warps:
     type: character
     characters: 那刻夏
     rerunCharacters: 真理医生
-    # description: 限时角色卡池
   
   - name: 跃迁「流光定影」
     startDate: 2025-04-30
@@ -29,4 +26,3 @@ warps:
     type: lightcone
     lightcones: 生命当付之一炬
     rerunLightcones: 纯粹思维的洗礼
-    # description: 限时光锥卡池

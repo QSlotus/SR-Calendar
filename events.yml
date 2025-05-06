@@ -1,10 +1,35 @@
 events:
-  - name: 「银河漫游」活动
-    startDate: 2025-05-01
-    endDate: 2025-05-15
-    description: 限时活动，完成任务获得星琼和材料
+  - name: 千星旅伴
+    startDate: 2025-04-09
+    endDate: 2025-08-12
+    description: 活动期间可获取「旅伴金灵」x1，可用于在商店兑换一名五星角色。
   
-  - name: 「寰宇蜃楼」活动
-    startDate: 2025-05-08
-    endDate: 2025-05-22
-    description: 新版本主线活动，获得限定角色
+  - name: 庆典祝礼
+    startDate: 2025-04-09
+    endDate: 2025-05-20
+    description: 每日登录可获得签到奖励。
+
+  - name: 致开拓的你
+    startDate: 2025-04-26
+    endDate: 2025-05-21
+    description: 接受伙伴的祝福，可获取奖励。
+     
+  - name: 星铁⭐WORLD
+    startDate: 2025-04-09
+    endDate: 2025-05-19
+    description: 模拟经营活动，完成后可领取奖励。
+
+  - name: 豹豹碰碰大作战
+    startDate: 2025-04-11
+    endDate: 2025-05-19
+    description: 参与活动可获取奖励，同时开放联机玩法。
+
+  - name: 豹豹碰碰大作战·联机玩法
+    startDate: 2025-04-11
+    endDate: 2025-07-02
+
+  - name: 星芒启明
+    startDate: 2025-04-28
+    endDate: 2025-05-19
+    description: 参与活动可获取奖励。
+     

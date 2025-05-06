@@ -1,20 +1,48 @@
 rewards:
-  - name: 每日委托
-    date: 2025-05-05
+  - name: 致开拓的你
+    date: 2025-04-26
     items:
-      - 星琼x60
-    description: 完成每日委托任务
+      - 星琼x1600
+      - 燃料x10
+
+  - name: 二周年庆典
+    date: 2025-04-09
+    items:
+      - 星轨专票x20
+    description: 需7天签到领取
+
+  - name: 星铁⭐WORLD
+    date: 2025-04-09
+    items:
+      - 星琼x1200
+      - 自塑尘脂x1
+      - 命运的足迹x1
+      - 光锥「宇宙大生意」x1
+
+  - name: 豹豹碰碰大作战
+    date: 2025-04-11
+    items:
+      - 星琼x1400
+      - 自塑尘脂x1
+      - 命运的足迹x2
+      - 随宠「泡泡」x1
+
+  - name: 星芒启明
+    date: 2025-04-28
+    items:
+      - 星琼x500
+      - 命运的足迹x1
+    description: 需分7天完成活动后领取
   
-  - name: 「银河漫游」活动奖励
-    date: 2025-05-05
+  - name: 「末日幻影·螟蝗战首」
+    date: 2025-04-14
     items:
-      - 星琼x120
-      - 自塑尘脂x2
-    description: 完成今日活动任务
-  
-  - name: 深渊
-    date: 2025-05-16
+      - 星琼x800
+  - name: 「虚构叙事·结构规律」
+    date: 2025-04-28
     items:
-      - 星琼x600
-      - 星轨通票x1
-    description: 完成深渊挑战
+      - 星琼x800
+  - name: 「混沌回忆·彼岸之息」
+    date: 2025-05-12
+    items:
+      - 星琼x800
