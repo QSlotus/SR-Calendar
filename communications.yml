@@ -1,9 +1,10 @@
 communications:
-  - name: 3.4新角色预告·壹
+  - name: 3.4新角色预告·Part1
     date: 2025-05-06
     character: 白厄
     description: 立绘时间：12:00
-  - name: 3.4新角色预告·贰
+    link: https://www.miyoushe.com/sr/article/64194823
+  - name: 3.4新角色预告·Part2
     date: 2025-05-07
     character: 未知
     description: 立绘时间：12:00
