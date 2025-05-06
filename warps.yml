@@ -2,6 +2,7 @@ warps:
   - name: 「星际列车」卡池
     startDate: 2025-04-24
     endDate: 2025-05-14
+    type: character
     characters: 景元
     rerunCharacters: 希儿
     description: 限时角色卡池
@@ -9,5 +10,7 @@ warps:
   - name: 「流光定影」光锥卡池
     startDate: 2025-05-08
     endDate: 2025-05-28
-    characters: 拂晓之前
+    type: lightcone
+    lightcones: 拂晓之前
+    rerunLightcones: 但战斗还未结束、记忆中的模样
     description: 限时光锥卡池
