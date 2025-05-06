@@ -1,0 +1,20 @@
+rewards:
+  - name: 每日委托
+    date: 2025-05-05
+    items:
+      - 星琼x60
+    description: 完成每日委托任务
+  
+  - name: 「银河漫游」活动奖励
+    date: 2025-05-05
+    items:
+      - 星琼x120
+      - 自塑尘脂x2
+    description: 完成今日活动任务
+  
+  - name: 深渊
+    date: 2025-05-16
+    items:
+      - 星琼x600
+      - 星轨通票x1
+    description: 完成深渊挑战

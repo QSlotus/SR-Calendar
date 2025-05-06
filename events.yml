@@ -1,0 +1,10 @@
+events:
+  - name: 「银河漫游」活动
+    startDate: 2025-05-01
+    endDate: 2025-05-15
+    description: 限时活动，完成任务获得星琼和材料
+  
+  - name: 「寰宇蜃楼」活动
+    startDate: 2025-05-08
+    endDate: 2025-05-22
+    description: 新版本主线活动，获得限定角色
