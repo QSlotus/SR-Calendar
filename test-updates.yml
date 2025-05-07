@@ -1,4 +1,9 @@
 testUpdates:
+  - name: 3.3测试服更新
+    date: 2025-05-07
+    version: v6
+    description: 3.3v6更新
+    link: https://homdgcat.wiki/sr/change
   - name: 3.4测试服开启
     date: 2025-05-20
     version: v1
