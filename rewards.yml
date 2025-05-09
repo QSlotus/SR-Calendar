@@ -1,18 +1,18 @@
 rewards:
   - name: 致开拓的你
-    date: 2025-04-26
+    date: "2025-04-26"
     items:
       - 星琼x1600
       - 燃料x10
 
   - name: 二周年庆典
-    date: 2025-04-09
+    date: "2025-04-09"
     items:
       - 星轨专票x20
     description: 需7天签到领取
 
   - name: 星铁⭐WORLD
-    date: 2025-04-09
+    date: "2025-04-09"
     items:
       - 星琼x1200
       - 自塑尘脂x1
@@ -20,7 +20,7 @@ rewards:
       - 光锥「宇宙大生意」x1
 
   - name: 豹豹碰碰大作战
-    date: 2025-04-11
+    date: "2025-04-11"
     items:
       - 星琼x1400
       - 自塑尘脂x1
@@ -28,21 +28,21 @@ rewards:
       - 随宠「泡泡」x1
 
   - name: 星芒启明
-    date: 2025-04-28
+    date: "2025-04-28"
     items:
       - 星琼x500
       - 命运的足迹x1
     description: 需分7天完成活动后领取
   
   - name: 「末日幻影·螟蝗战首」
-    date: 2025-04-14
+    date: "2025-04-14"
     items:
       - 星琼x800
   - name: 「虚构叙事·结构规律」
-    date: 2025-04-28
+    date: "2025-04-28"
     items:
       - 星琼x800
   - name: 「混沌回忆·彼岸之息」
-    date: 2025-05-12
+    date: "2025-05-12"
     items:
       - 星琼x800
