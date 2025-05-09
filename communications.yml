@@ -1,16 +1,16 @@
 communications:
   - name: Fate联动角色预告·Part1
-    date: 2025-05-03
+    date: "2025-05-03 12"
     character: Saber
     mdPath: Saber.md
 
   - name: Fate联动角色预告·Part2
-    date: 2025-05-03
+    date: "2025-05-03 12"
     character: Archer
     mdPath: Archer.md
 
   - name: 3.4新角色预告
-    date: 2025-05-06
+    date: "2025-05-06 12"
     character: 白厄
     description: 立绘发布时间：12:00
     mdPath: Phainon.md
