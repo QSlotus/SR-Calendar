@@ -20,9 +20,37 @@ warps:
     characters: 那刻夏
     rerunCharacters: 真理医生
   
-  - name: 跃迁「流光定影」
+  - name: 跃迁「流光定影」&「溯回忆象」
     startDate: "2025-04-30 12"
     endDate: "2025-05-20 15"
     type: lightcone
     lightcones: 生命当付之一炬
     rerunLightcones: 纯粹思维的洗礼
+
+  - name: 跃迁「虹隽晨昏」&「视界来信」
+    startDate: "2025-05-21 10"
+    endDate: "2025-06-11 12"
+    type: character
+    characters: 风堇
+    rerunCharacters: 大黑塔
+  
+  - name: 跃迁「流光定影」&「溯回忆象」
+    startDate: "2025-05-21 10"
+    endDate: "2025-06-11 12"
+    type: lightcone
+    lightcones: 愿虹光永驻天空
+    rerunLightcones: 向着不可追问处
+
+  - name: 跃迁「捷足盗天」&「裁酌天命」
+    startDate: "2025-06-11 12"
+    endDate: "2025-07-01 15"
+    type: character
+    characters: 赛飞儿
+    rerunCharacters: 阿格莱雅
+  
+  - name: 跃迁「流光定影」&「溯回忆象」
+    startDate: "2025-06-11 12"
+    endDate: "2025-07-01 15"
+    type: lightcone
+    lightcones: 谎言在风中飘扬
+    rerunLightcones: 将光阴织成黄金
