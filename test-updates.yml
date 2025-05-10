@@ -3,9 +3,8 @@ testUpdates:
     date: "2025-05-07 10"
     version: v6
     description: 3.3v6更新
-    link: https://homdgcat.wiki/sr/change
+    mdPath: 3.3v6.md
   - name: 3.4测试服开启
     date: "2025-05-20 10"
     version: v1
     description: 3.4v1更新
-    link: https://homdgcat.wiki/sr/change
