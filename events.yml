@@ -33,3 +33,10 @@ events:
     endDate: "2025-05-19 04"
     description: 参与活动可获取奖励。
      
+  - name: 「银河球棒侠传说：魔王篇」
+    startDate: "2025-05-21 10"
+    endDate: "2025-06-30 04"
+
+  - name: 「极速追影」
+    startDate: "2025-06-11 12"
+    endDate: "2025-06-30 04"
