@@ -1,56 +1,56 @@
 warps:
-  - name: 跃迁「冥途生花」&「铭心之萃」
+  - name: 跃迁「冥途生花」&「流光定影」
     startDate: "2025-04-09 10"
     endDate: "2025-04-30 12"
-    type: character
+    type: up
     characters: 遐蝶
-    rerunCharacters: 忘归人 | 椒丘 | 黄泉
+    lightcones: 让告别，更美一些
   
-  - name: 跃迁「流光定影」&「真意之汇」
+  - name: 跃迁「铭心之萃」&「真意之汇」
     startDate: "2025-04-09 10"
     endDate: "2025-04-30 12"
-    type: lightcone
-    lightcones: 让告别，更美一些
+    type: retro
+    rerunCharacters: 忘归人 | 椒丘 | 黄泉
     rerunLightcones: 长路终有归途 | 那无数个春天 | 行于流逝的岸
 
-  - name: 跃迁「胚中万物」&「万物皆流」
+  - name: 跃迁「胚中万物」&「流光定影」
     startDate: "2025-04-30 12"
     endDate: "2025-05-20 15"
-    type: character
+    type: up
     characters: 那刻夏
-    rerunCharacters: 真理医生
+    lightcones: 生命当付之一炬
   
-  - name: 跃迁「流光定影」&「溯回忆象」
+  - name: 跃迁「万物皆流」&「溯回忆象」
     startDate: "2025-04-30 12"
     endDate: "2025-05-20 15"
-    type: lightcone
-    lightcones: 生命当付之一炬
+    type: retro
+    rerunCharacters: 真理医生
     rerunLightcones: 纯粹思维的洗礼
 
-  - name: 跃迁「虹隽晨昏」&「视界来信」
+  - name: 跃迁「虹隽晨昏」&「流光定影」
     startDate: "2025-05-21 10"
     endDate: "2025-06-11 12"
-    type: character
+    type: up
     characters: 风堇
-    rerunCharacters: 大黑塔
+    lightcones: 愿虹光永驻天空
   
-  - name: 跃迁「流光定影」&「溯回忆象」
+  - name: 跃迁「视界来信」&「溯回忆象」
     startDate: "2025-05-21 10"
     endDate: "2025-06-11 12"
-    type: lightcone
-    lightcones: 愿虹光永驻天空
+    type: retro
+    rerunCharacters: 大黑塔
     rerunLightcones: 向着不可追问处
 
-  - name: 跃迁「捷足盗天」&「裁酌天命」
+  - name: 跃迁「捷足盗天」&「流光定影」
     startDate: "2025-06-11 12"
     endDate: "2025-07-01 15"
-    type: character
+    type: up
     characters: 赛飞儿
-    rerunCharacters: 阿格莱雅
+    lightcones: 谎言在风中飘扬
   
-  - name: 跃迁「流光定影」&「溯回忆象」
+  - name: 跃迁「裁酌天命」&「溯回忆象」
     startDate: "2025-06-11 12"
     endDate: "2025-07-01 15"
-    type: lightcone
-    lightcones: 谎言在风中飘扬
+    type: retro
+    rerunCharacters: 阿格莱雅
     rerunLightcones: 将光阴织成黄金
