@@ -6,3 +6,4 @@ testUpdates:
   - name: 3.4测试服开启
     date: "2025-05-22 10"
     version: v1
+    mdPath: 3.4v1.md
