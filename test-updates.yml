@@ -10,3 +10,4 @@ testUpdates:
   - name: 3.4测试服更新
     date: "2025-05-27 10"
     version: v2
+    mdPath: 3.4v2.md
