@@ -19,3 +19,7 @@ testUpdates:
     date: "2025-06-10"
     version: v4
     mdPath: 3.4v4.md
+  - name: 3.4测试服更新
+    date: "2025-06-13"
+    version: v5
+    mdPath: 3.4v5.md
