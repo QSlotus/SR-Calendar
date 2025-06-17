@@ -16,8 +16,9 @@ communications:
     mdPath: Phainon.md
   - name: 3.5新角色预告·Part1
     date: "2025-06-17 12"
-    character: Unknown
+    character: 海瑟音
     description: 立绘发布时间：12:00
+    mdPath: Helektra.md
   - name: 3.5新角色预告·Part2
     date: "2025-06-18 12"
     character: Unknown
