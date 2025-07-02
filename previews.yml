@@ -8,3 +8,7 @@ previews:
     date: "2025-06-20 19"
     type: stream
     description: 开始时间：19:30
+    mdPath: 3.4.md
+  - name: "3.5版本前瞻直播"
+    date: "2025-08-03"
+    type: "stream"
